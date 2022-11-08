@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/syncfusion/flutter/pdfviewer/example/MainActivity.java
+ com.syncfusion.flutter.pdfviewer.example.MainActivity
+com/syncfusion/flutter/pdfviewer/example/BuildConfig.java
+ com.syncfusion.flutter.pdfviewer.example.BuildConfig

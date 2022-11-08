@@ -1,0 +1,4 @@
+#Fri Nov 04 02:30:42 EET 2022
+base.0=/Users/mosalah/Desktop/saned school/flutter-widgets/packages/syncfusion_flutter_pdfviewer/example/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
